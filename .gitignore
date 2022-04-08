@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DemoDapper/bin/Debug/netcoreapp3.1
+/DemoDapper/obj
+/DTO/bin/Debug/netcoreapp3.1
+/DTO/obj
+/TestEntityFramwork/bin/Debug/netcoreapp3.1
+/TestEntityFramwork/obj/Debug/netcoreapp3.1
+/TestEntityFramwork/obj
